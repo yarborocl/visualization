@@ -1,0 +1,6 @@
+Top Emotion	TE Count
+sadness	90
+joy	43
+anger	42
+disgust	10
+fear	15

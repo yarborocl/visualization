@@ -1,0 +1,4 @@
+Flask==0.10.1
+pyxley==0.1.0
+pandas==0.19.2
+numpy==1.8.0

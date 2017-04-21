@@ -1,0 +1,4 @@
+Sentiment	Sentiment Count
+negative	79
+positive	66
+neutral	55
