@@ -15,7 +15,7 @@ HTML_PARAMS = {
 app = create_app(here, default_static_path(), default_template_path(), index_params=HTML_PARAMS)
 
 # build the layout
-get_layouts(app, here+"/sentimentAHY.txt")
+get_layouts(app, here+"/files/sentimentAHY.txt")
 
 port = os.getenv('PORT', '5000')
 if __name__ == "__main__":

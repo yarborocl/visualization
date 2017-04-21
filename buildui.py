@@ -41,9 +41,9 @@ def make_mg_layout(filename):
     # load a dataframe
     dfSentiment = readCSVtoDF(filename)
 
-    dfKeywords = readCSVtoDF(here+"/keywordsAHY.txt")
+    dfKeywords = readCSVtoDF(here+"/files/keywordsAHY.txt")
 
-    dfEmotion = readCSVtoDF(here+"/emotionAHY.txt")
+    dfEmotion = readCSVtoDF(here+"/files/emotionAHY.txt")
     # Make a UI
     ui = UILayout("FilterChart")
 
